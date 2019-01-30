@@ -1,3 +1,7 @@
+### Attempt to user maatwebsite/excel 3
+
+    composer require FulkerDevelopmentLLC/laravel-report-generator
+
 # Laravel Report Generators (PDF, CSV & Excel)
 Rapidly Generate Simple Pdf Report on Laravel (Using [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) or [barryvdh/laravel-snappy](https://github.com/barryvdh/laravel-snappy)) or CSV / Excel Report (using [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel))
 
